@@ -5,7 +5,7 @@ const players= [
         nationality:'Portugal',
         jerseyNumber:7,
         age:38,
-        imageURL:'https://example.com/cristianohttps://assets-fr.imgfoot.com/media/cache/1200x1200/cristiano-ronaldo-al-nassr.jpg-ronaldo.jpg',
+        imageURL:'https://assets-fr.imgfoot.com/media/cache/1200x1200/cristiano-ronaldo-al-nassr.jpg',
 
     },
     {
@@ -14,7 +14,7 @@ const players= [
         nationality:'Argentina',
         jerseyNumber:30,
         age:36,
-        imageURL:'https://https://s.hs-data.com/bilder/spieler/gross/26622.jpg.com/lionel-messi.jpg',
+        imageURL:'https://images2.minutemediacdn.com/image/upload/c_crop,w_1920,h_1080,x_0,y_0/c_fill,w_720,ar_16:9,f_auto,q_auto,g_auto/images/voltaxMediaLibrary/mmsport/90min_en_international_web/01h2c0ec3cm32we3q24v.jpg',
     },
     {
         name:'Mouhamed Salah',
@@ -22,7 +22,7 @@ const players= [
         nationality:'Egypt',
         jerseyNumber:11,
         age:31,
-        imageURL:'https://https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Mohamed_Salah_2018.jpg/420px-Mohamed_Salah_2018.jpg://s.hs-data.com/bilder/spieler/gross/26622.jpg.com/lionel-messi.jpg',
+        imageURL:'https://s.hs-data.com/bilder/spieler/gross/173692.jpg',
     },
     {
         name:'Msekni Youssef',
@@ -30,7 +30,7 @@ const players= [
         nationality:'Tunisia',
         jerseyNumber:28,
         age:32,
-        imageURL:'https://https://https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Youssef_Msakni_2015b.jpg/420px-Youssef_Msakni_2015b.jpg.wikimedia.org/wikipedia/commons/thumb/4/4a/Mohamed_Salah_2018.jpg/420px-Mohamed_Salah_2018.jpg://s.hs-data.com/bilder/spieler/gross/26622.jpg.com/lionel-messi.jpg',
+        imageURL:'https://www.footballdatabase.eu/images/photos/players/2021-2022/a_92/92396.jpg',
     },
 
 ];
